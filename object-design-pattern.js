@@ -6,6 +6,7 @@ const Player = function(username, age){
 
     this.sayHi = function(){
         console.log(`Hi I'm ${this.username}`)
+        
     }
 }
 
